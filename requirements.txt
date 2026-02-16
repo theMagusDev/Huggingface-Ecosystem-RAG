@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+langchain-huggingface
+sentence-transformers
+chromadb
+gradio
+python-dotenv
+gitpython
+tqdm
